@@ -1,0 +1,4 @@
+# websocketserver
+Java使用websocket实现聊天室
+ChatServer 使用java_websocket实现
+ChatServerV2使用javax.websocket实现，部署到tomcat8.5.5服务器上进行访问
